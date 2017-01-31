@@ -49,5 +49,3 @@ extension Collection where Index: BidirectionalIndex {
 let a = [20, 30, 10, 40, 20, 30, 10, 40, 20]
 print(a.lastIndex(of: 40))
 print(a.last(where: { $0 > 25 }))
-
-In your github fork, you need to keep your master branch clean, by clean I mean without any changes, like that you can create at any time a branch from your master. Each time, that you want to commit a bug or a feature, you need to create a branch for it, which will be a copy of your master branch.

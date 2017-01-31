@@ -49,3 +49,5 @@ extension Collection where Index: BidirectionalIndex {
 let a = [20, 30, 10, 40, 20, 30, 10, 40, 20]
 print(a.lastIndex(of: 40))
 print(a.last(where: { $0 > 25 }))
+
+11111111111111111111111111111111111111111111111111111111111111111111111111111111

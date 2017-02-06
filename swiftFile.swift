@@ -1,6 +1,8 @@
 // This code is an example implementation of a Swift Evolution for the inclusion of last(where:),
 // lastIndex(where:), and lastIndex(of:) methods in the Collection protocol.
 
+//test changes
+
 extension Collection {
     /// Returns the last element of the collection that satisfies the given
     /// predicate, or `nil` if no element does.
